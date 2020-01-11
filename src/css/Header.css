@@ -1,0 +1,14 @@
+.header-container {
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+    background-color: #f8f9fa;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    height: 40px;
+    width: 100%;
+    font-size: 20px;
+    text-transform: capitalize;
+}
